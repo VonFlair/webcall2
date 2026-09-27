@@ -1,5 +1,6 @@
-```markdown
-# MVP Bot Platform
+# Webcall MVP Platform
+
+**Developer:** Jiayu Feng
 
 Webcall is a Minimum Viable Product (MVP) that integrates video conferencing, real-time AI chat, and user authentication into one scalable platform. 
 
@@ -72,8 +73,8 @@ This platform combines several services to offer:
 
 1. **Clone the Repository**
    ```bash
-   git clone <repository-url>
-   cd mvp-bot-platform
+   git clone https://github.com/VonFlair/webcall2.git
+   cd webcall2
    ```
 
 2. **Install Dependencies**
